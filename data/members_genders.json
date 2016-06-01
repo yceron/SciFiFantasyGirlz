@@ -1,0 +1,17 @@
+[
+  {
+    "Gender": "Women",
+    "Count": 149,
+    "Color": "#6E5E52"
+  },
+  {
+    "Gender": "Men",
+    "Count": 32,
+    "Color": "#B9A593"
+  },
+  {
+    "Gender": "Unknown",
+    "Count": 65,
+    "Color": "#D8D0B9"
+  }
+]

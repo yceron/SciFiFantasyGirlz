@@ -1,0 +1,38 @@
+[
+  {
+    "AgeGroup": "18 to 25",
+    "Total": 6,
+    "SortOrder": 1
+  },
+  {
+    "AgeGroup": "26 to 30",
+    "Total": 5,
+    "SortOrder": 2
+  },
+  {
+    "AgeGroup": "30 to 39",
+    "Total": 10,
+    "SortOrder": 3
+  },
+  {
+    "AgeGroup": "40 to 49",
+    "Total": 8,
+    "SortOrder": 4
+  },
+  {
+    "AgeGroup": "50 to 59",
+    "Total": 5,
+    "SortOrder": 5
+
+  },
+  {
+    "AgeGroup": "60 and older",
+    "Total": 1,
+    "SortOrder": 6
+  },
+  {
+    "AgeGroup": "Unknown",
+    "Total": 157,
+    "SortOrder": 7
+  }
+]
