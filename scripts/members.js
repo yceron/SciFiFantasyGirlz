@@ -1,51 +1,32 @@
-﻿Plotly.d3.csv('data/members_countries.csv', function (err, rows) {
-    function unpack(rows, key) {
-        return rows.map(function (row) { return row[key]; });
-    }
+﻿
 
-    var data = [{
-        type: 'choropleth',
-        locationmode: 'country names',
-        locations: unpack(rows, 'Country'),
-        z: unpack(rows, 'Members'),
-        text: unpack(rows, 'Country'),
-        autocolorscale: false,
-        colorscale: [[0, 'rgb(150,0,90)'], [0.125, 'rgb(0, 0, 200)'], [0.25, 'rgb(0, 25, 255)'], [0.375, 'rgb(0, 152, 255)'], [0.5, 'rgb(44, 255, 150)'], [0.625, 'rgb(151, 255, 0)'], [0.75, 'rgb(255, 234, 0)'], [0.875, 'rgb(255, 111, 0)'], [1, 'rgb(255, 0, 0)']
-        ],
-        colorbar: {
-            title: 'Number of Members',
-            thickness: 20.1,
-            ticksuffix: ' members'
+function createLocationMap() {
+
+    $("#map").kendoMap({
+        center: [41.640078, -33.398438],
+        zoom: 3,
+        layers: [
+            {
+            type: "tile",
+            urlTemplate: "http://#= subdomain #.tile2.opencyclemap.org/transport/#= zoom #/#= x #/#= y #.png",
+            subdomains: ["a", "b", "c"],
+            attribution: "&copy; <a href='http://osm.org/copyright'>OpenStreetMap contributors</a>."
         },
-        marker: {
-            line: {
-                width: 1
-
-            }
-        }
-    }];
-
-
-    var layout = {
-        title: '',
-        height:600,
-        width: 700,
-        geo: {
-            projection: {
-                type: "orthographic"
+        {
+            type: "marker",
+            dataSource: {
+                transport: {
+                    read: {
+                        url: "/data/members_location.json",
+                        dataType: "json"
+                    }
+                }
             },
-            showframe: false,
-            showland: true,
-            showocean: true,
-            oceancolor: '91BFFF',
-            showcoastlines: true
-
-        }
-    };
-
-    Plotly.plot(map, data, layout, { showLink: false });
-});
-
+            locationField: "latlong",
+            titleField: "location"
+        }]
+    });
+}
 
 
 function createRegistrationChart() {
@@ -65,7 +46,7 @@ function createRegistrationChart() {
         },
         title: {
             text: "Sci-fi & Fantasy Girlz Members Registration",
-            font: "bold 16px 'Raleway', sans-serif"
+            font: "bold 20px 'Raleway', sans-serif"
         },
         legend: {
             position: "bottom"
@@ -82,7 +63,7 @@ function createRegistrationChart() {
                 template: "Total registered members: ${value}"
             }
         }, {
-            type: "line",
+            type: "bar",
             field: "RegistrationCount",
             name: "New members",
             color: "#73c100",
@@ -111,40 +92,6 @@ function createRegistrationChart() {
     });
 }
 
-function createMembersGenderChart() {
-    $("#genderChart").kendoChart({
-        theme:"bootstrap",
-        dataSource: {
-            transport: {
-                read: {
-                    url: "data/members_genders.json",
-                    dataType: "json"
-                }
-            },
-            sort: {
-                field: "Count",
-                dir: "asc"
-            }
-        },
-        title: {
-            text: "Members Gender Distribution",
-            font: "bold 16px 'Raleway', sans-serif"
-        },
-        legend: {
-            position: "bottom"
-        },
-        series: [{
-            type: "donut",
-            field: "Count",
-            categoryField :"Gender"
-            }],
-        tooltip: {
-            visible: true,
-            template: "#= category #  #= kendo.format('{0:P}', percentage) #"
-        }
-    });
-}
-
 function createAgeChart() {
     $("#ageChart").kendoChart({
         theme: "bootstrap",
@@ -163,7 +110,7 @@ function createAgeChart() {
         title: {
             align: "center",
             text: "Members Age Groups",
-            font: "bold 16px 'Raleway', sans-serif"
+            font: "bold 20px 'Raleway', sans-serif"
         },
         legend: {
             visible: true
@@ -214,8 +161,8 @@ function createMembershipAgeChart() {
         },
         title: {
             align: "center",
-            text: "Goodreads membership",
-            font: "bold 16px 'Raleway', sans-serif"
+            text: "Goodreads Membership",
+            font: "bold 20px 'Raleway', sans-serif"
         },
         legend: {
             visible: true
@@ -248,6 +195,8 @@ function createMembershipAgeChart() {
         }
     });
 }
+
+
 
 function createGenderBarChart() {
     $("#genderChart").kendoChart({
@@ -299,13 +248,14 @@ function createGenderBarChart() {
     });
 }
 
-//createMembersGenderChart();
+
 createAgeChart();
 createRegistrationChart();
 createMembershipAgeChart();
+createLocationMap();
 
 $(window).on("resize", function () {
-  //  $("#genderChart").data("kendoChart").refresh();
+    $("#map").data("kendoChart").refresh();
     $("#ageChart").data("kendoChart").refresh();
     $("#registrationChart").data("kendoChart").refresh();
     $("#membershipChart").data("kendoChart").refresh();

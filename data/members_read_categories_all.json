@@ -1,0 +1,3058 @@
+[
+  {
+    "genre": "10th century",
+    "count": 6
+  },
+  {
+    "genre": "11th century",
+    "count": 19
+  },
+  {
+    "genre": "12th century",
+    "count": 70
+  },
+  {
+    "genre": "13th century",
+    "count": 40
+  },
+  {
+    "genre": "14th century",
+    "count": 96
+  },
+  {
+    "genre": "15th century",
+    "count": 71
+  },
+  {
+    "genre": "16th century",
+    "count": 200
+  },
+  {
+    "genre": "17th century",
+    "count": 124
+  },
+  {
+    "genre": "18th century",
+    "count": 128
+  },
+  {
+    "genre": "19th century",
+    "count": 744
+  },
+  {
+    "genre": "1st grade",
+    "count": 61
+  },
+  {
+    "genre": "20th century",
+    "count": 2357
+  },
+  {
+    "genre": "21st century",
+    "count": 852
+  },
+  {
+    "genre": "2nd grade",
+    "count": 54
+  },
+  {
+    "genre": "40k",
+    "count": 35
+  },
+  {
+    "genre": "abuse",
+    "count": 198
+  },
+  {
+    "genre": "academia",
+    "count": 81
+  },
+  {
+    "genre": "academic",
+    "count": 292
+  },
+  {
+    "genre": "academics",
+    "count": 10
+  },
+  {
+    "genre": "action",
+    "count": 2765
+  },
+  {
+    "genre": "activism",
+    "count": 11
+  },
+  {
+    "genre": "adaptations",
+    "count": 8
+  },
+  {
+    "genre": "adolescence",
+    "count": 45
+  },
+  {
+    "genre": "adoption",
+    "count": 13
+  },
+  {
+    "genre": "adult",
+    "count": 6535
+  },
+  {
+    "genre": "adult fiction",
+    "count": 3985
+  },
+  {
+    "genre": "adventure",
+    "count": 6291
+  },
+  {
+    "genre": "adventurers",
+    "count": 3
+  },
+  {
+    "genre": "æ¼«ç”»",
+    "count": 254
+  },
+  {
+    "genre": "africa",
+    "count": 231
+  },
+  {
+    "genre": "african american",
+    "count": 112
+  },
+  {
+    "genre": "african american literature",
+    "count": 41
+  },
+  {
+    "genre": "african american romance",
+    "count": 1
+  },
+  {
+    "genre": "african literature",
+    "count": 24
+  },
+  {
+    "genre": "agriculture",
+    "count": 17
+  },
+  {
+    "genre": "albanian literature",
+    "count": 1
+  },
+  {
+    "genre": "alchemy",
+    "count": 18
+  },
+  {
+    "genre": "alcohol",
+    "count": 8
+  },
+  {
+    "genre": "aliens",
+    "count": 788
+  },
+  {
+    "genre": "alternate history",
+    "count": 501
+  },
+  {
+    "genre": "alternate universe",
+    "count": 117
+  },
+  {
+    "genre": "amateur sleuth",
+    "count": 29
+  },
+  {
+    "genre": "amazon",
+    "count": 324
+  },
+  {
+    "genre": "american",
+    "count": 2462
+  },
+  {
+    "genre": "american civil war",
+    "count": 21
+  },
+  {
+    "genre": "american classics",
+    "count": 117
+  },
+  {
+    "genre": "american fiction",
+    "count": 123
+  },
+  {
+    "genre": "american history",
+    "count": 298
+  },
+  {
+    "genre": "american novels",
+    "count": 2
+  },
+  {
+    "genre": "americana",
+    "count": 167
+  },
+  {
+    "genre": "amish",
+    "count": 2
+  },
+  {
+    "genre": "amish fiction",
+    "count": 2
+  },
+  {
+    "genre": "ancient",
+    "count": 297
+  },
+  {
+    "genre": "ancient history",
+    "count": 274
+  },
+  {
+    "genre": "angels",
+    "count": 153
+  },
+  {
+    "genre": "anglo saxon",
+    "count": 26
+  },
+  {
+    "genre": "angola",
+    "count": 1
+  },
+  {
+    "genre": "animal fiction",
+    "count": 105
+  },
+  {
+    "genre": "animals",
+    "count": 1150
+  },
+  {
+    "genre": "anime",
+    "count": 650
+  },
+  {
+    "genre": "anthologies",
+    "count": 498
+  },
+  {
+    "genre": "anthropology",
+    "count": 257
+  },
+  {
+    "genre": "anthropomorphic",
+    "count": 40
+  },
+  {
+    "genre": "anti racist",
+    "count": 1
+  },
+  {
+    "genre": "apocalyptic",
+    "count": 387
+  },
+  {
+    "genre": "apple",
+    "count": 1
+  },
+  {
+    "genre": "archeology",
+    "count": 24
+  },
+  {
+    "genre": "architecture",
+    "count": 51
+  },
+  {
+    "genre": "art",
+    "count": 761
+  },
+  {
+    "genre": "art and photography",
+    "count": 11
+  },
+  {
+    "genre": "art design",
+    "count": 31
+  },
+  {
+    "genre": "art history",
+    "count": 55
+  },
+  {
+    "genre": "arthurian",
+    "count": 143
+  },
+  {
+    "genre": "asia",
+    "count": 408
+  },
+  {
+    "genre": "asian literature",
+    "count": 89
+  },
+  {
+    "genre": "aspergers",
+    "count": 7
+  },
+  {
+    "genre": "astrology",
+    "count": 9
+  },
+  {
+    "genre": "astronomy",
+    "count": 26
+  },
+  {
+    "genre": "atheism",
+    "count": 26
+  },
+  {
+    "genre": "australia",
+    "count": 110
+  },
+  {
+    "genre": "autobiography",
+    "count": 428
+  },
+  {
+    "genre": "babylon 5",
+    "count": 2
+  },
+  {
+    "genre": "back to school",
+    "count": 4
+  },
+  {
+    "genre": "bande dessinÃ©e",
+    "count": 34
+  },
+  {
+    "genre": "bangladesh",
+    "count": 2
+  },
+  {
+    "genre": "banned books",
+    "count": 212
+  },
+  {
+    "genre": "baseball",
+    "count": 12
+  },
+  {
+    "genre": "basketball",
+    "count": 5
+  },
+  {
+    "genre": "batman",
+    "count": 136
+  },
+  {
+    "genre": "battle of gettysburg",
+    "count": 2
+  },
+  {
+    "genre": "bdsm",
+    "count": 93
+  },
+  {
+    "genre": "beading",
+    "count": 2
+  },
+  {
+    "genre": "beauty and the beast",
+    "count": 46
+  },
+  {
+    "genre": "beer",
+    "count": 4
+  },
+  {
+    "genre": "belgian",
+    "count": 1
+  },
+  {
+    "genre": "belgium",
+    "count": 4
+  },
+  {
+    "genre": "beverages",
+    "count": 4
+  },
+  {
+    "genre": "biblical",
+    "count": 40
+  },
+  {
+    "genre": "biblical fiction",
+    "count": 21
+  },
+  {
+    "genre": "biography",
+    "count": 1059
+  },
+  {
+    "genre": "biography memoir",
+    "count": 493
+  },
+  {
+    "genre": "biology",
+    "count": 84
+  },
+  {
+    "genre": "birds",
+    "count": 40
+  },
+  {
+    "genre": "bisexual",
+    "count": 13
+  },
+  {
+    "genre": "bizarro fiction",
+    "count": 1
+  },
+  {
+    "genre": "black literature",
+    "count": 4
+  },
+  {
+    "genre": "boarding school",
+    "count": 92
+  },
+  {
+    "genre": "books about books",
+    "count": 242
+  },
+  {
+    "genre": "booze",
+    "count": 3
+  },
+  {
+    "genre": "boys love",
+    "count": 3
+  },
+  {
+    "genre": "brain",
+    "count": 19
+  },
+  {
+    "genre": "brazil",
+    "count": 16
+  },
+  {
+    "genre": "brewing",
+    "count": 1
+  },
+  {
+    "genre": "british literature",
+    "count": 898
+  },
+  {
+    "genre": "buddhism",
+    "count": 43
+  },
+  {
+    "genre": "buffy the vampire slayer",
+    "count": 15
+  },
+  {
+    "genre": "buisness",
+    "count": 3
+  },
+  {
+    "genre": "bulgaria",
+    "count": 1
+  },
+  {
+    "genre": "business",
+    "count": 156
+  },
+  {
+    "genre": "campus",
+    "count": 10
+  },
+  {
+    "genre": "canada",
+    "count": 141
+  },
+  {
+    "genre": "canadian literature",
+    "count": 64
+  },
+  {
+    "genre": "canon",
+    "count": 83
+  },
+  {
+    "genre": "cartography",
+    "count": 3
+  },
+  {
+    "genre": "cartoon",
+    "count": 57
+  },
+  {
+    "genre": "category romance",
+    "count": 9
+  },
+  {
+    "genre": "catholic",
+    "count": 61
+  },
+  {
+    "genre": "cats",
+    "count": 228
+  },
+  {
+    "genre": "chapter books",
+    "count": 508
+  },
+  {
+    "genre": "chemistry",
+    "count": 13
+  },
+  {
+    "genre": "chess",
+    "count": 4
+  },
+  {
+    "genre": "chick lit",
+    "count": 884
+  },
+  {
+    "genre": "childrens",
+    "count": 2328
+  },
+  {
+    "genre": "childrens classics",
+    "count": 164
+  },
+  {
+    "genre": "china",
+    "count": 128
+  },
+  {
+    "genre": "chinese literature",
+    "count": 19
+  },
+  {
+    "genre": "christian",
+    "count": 278
+  },
+  {
+    "genre": "christian fiction",
+    "count": 134
+  },
+  {
+    "genre": "christian historical fiction",
+    "count": 6
+  },
+  {
+    "genre": "christian non fiction",
+    "count": 51
+  },
+  {
+    "genre": "christian romance",
+    "count": 7
+  },
+  {
+    "genre": "christianity",
+    "count": 252
+  },
+  {
+    "genre": "christmas",
+    "count": 119
+  },
+  {
+    "genre": "church",
+    "count": 42
+  },
+  {
+    "genre": "church history",
+    "count": 20
+  },
+  {
+    "genre": "church ministry",
+    "count": 1
+  },
+  {
+    "genre": "cinderella",
+    "count": 38
+  },
+  {
+    "genre": "cities",
+    "count": 32
+  },
+  {
+    "genre": "civil war",
+    "count": 50
+  },
+  {
+    "genre": "civil war history",
+    "count": 6
+  },
+  {
+    "genre": "class",
+    "count": 80
+  },
+  {
+    "genre": "class issues",
+    "count": 5
+  },
+  {
+    "genre": "classic literature",
+    "count": 968
+  },
+  {
+    "genre": "classical music",
+    "count": 3
+  },
+  {
+    "genre": "classical studies",
+    "count": 54
+  },
+  {
+    "genre": "classics",
+    "count": 3649
+  },
+  {
+    "genre": "clean romance",
+    "count": 50
+  },
+  {
+    "genre": "climate change",
+    "count": 10
+  },
+  {
+    "genre": "climbing",
+    "count": 8
+  },
+  {
+    "genre": "cocktails",
+    "count": 2
+  },
+  {
+    "genre": "collections",
+    "count": 276
+  },
+  {
+    "genre": "college",
+    "count": 557
+  },
+  {
+    "genre": "comedy",
+    "count": 1910
+  },
+  {
+    "genre": "comic book",
+    "count": 548
+  },
+  {
+    "genre": "comic strips",
+    "count": 108
+  },
+  {
+    "genre": "comics",
+    "count": 2178
+  },
+  {
+    "genre": "comics manga",
+    "count": 1041
+  },
+  {
+    "genre": "coming of age",
+    "count": 1219
+  },
+  {
+    "genre": "comix",
+    "count": 519
+  },
+  {
+    "genre": "communication",
+    "count": 40
+  },
+  {
+    "genre": "computer science",
+    "count": 2
+  },
+  {
+    "genre": "computers",
+    "count": 26
+  },
+  {
+    "genre": "contemporary",
+    "count": 3628
+  },
+  {
+    "genre": "contemporary romance",
+    "count": 397
+  },
+  {
+    "genre": "cookbooks",
+    "count": 343
+  },
+  {
+    "genre": "cooking",
+    "count": 389
+  },
+  {
+    "genre": "counter culture",
+    "count": 5
+  },
+  {
+    "genre": "cozy mystery",
+    "count": 293
+  },
+  {
+    "genre": "crafts",
+    "count": 36
+  },
+  {
+    "genre": "crafty",
+    "count": 15
+  },
+  {
+    "genre": "crime",
+    "count": 2115
+  },
+  {
+    "genre": "criticism",
+    "count": 226
+  },
+  {
+    "genre": "cross dressing",
+    "count": 40
+  },
+  {
+    "genre": "cthulhu mythos",
+    "count": 33
+  },
+  {
+    "genre": "cuisine",
+    "count": 41
+  },
+  {
+    "genre": "culinary",
+    "count": 177
+  },
+  {
+    "genre": "cult classics",
+    "count": 3
+  },
+  {
+    "genre": "cults",
+    "count": 15
+  },
+  {
+    "genre": "cultural",
+    "count": 353
+  },
+  {
+    "genre": "cultural studies",
+    "count": 116
+  },
+  {
+    "genre": "cyberpunk",
+    "count": 156
+  },
+  {
+    "genre": "cycling",
+    "count": 2
+  },
+  {
+    "genre": "czech literature",
+    "count": 6
+  },
+  {
+    "genre": "danish",
+    "count": 18
+  },
+  {
+    "genre": "dark",
+    "count": 873
+  },
+  {
+    "genre": "dark fantasy",
+    "count": 707
+  },
+  {
+    "genre": "dc comics",
+    "count": 225
+  },
+  {
+    "genre": "death",
+    "count": 451
+  },
+  {
+    "genre": "demons",
+    "count": 548
+  },
+  {
+    "genre": "denmark",
+    "count": 20
+  },
+  {
+    "genre": "design",
+    "count": 55
+  },
+  {
+    "genre": "detective",
+    "count": 1013
+  },
+  {
+    "genre": "diary",
+    "count": 50
+  },
+  {
+    "genre": "dictionaries",
+    "count": 9
+  },
+  {
+    "genre": "diets",
+    "count": 4
+  },
+  {
+    "genre": "dinosaurs",
+    "count": 21
+  },
+  {
+    "genre": "disability",
+    "count": 66
+  },
+  {
+    "genre": "discipleship",
+    "count": 19
+  },
+  {
+    "genre": "disease",
+    "count": 21
+  },
+  {
+    "genre": "divination",
+    "count": 7
+  },
+  {
+    "genre": "doctor who",
+    "count": 29
+  },
+  {
+    "genre": "dogs",
+    "count": 166
+  },
+  {
+    "genre": "drag",
+    "count": 7
+  },
+  {
+    "genre": "dragonlance",
+    "count": 46
+  },
+  {
+    "genre": "dragons",
+    "count": 660
+  },
+  {
+    "genre": "drama",
+    "count": 2233
+  },
+  {
+    "genre": "drawing",
+    "count": 11
+  },
+  {
+    "genre": "drinking",
+    "count": 8
+  },
+  {
+    "genre": "dungeons and dragons",
+    "count": 124
+  },
+  {
+    "genre": "dutch literature",
+    "count": 1
+  },
+  {
+    "genre": "dying earth",
+    "count": 12
+  },
+  {
+    "genre": "dystopia",
+    "count": 1090
+  },
+  {
+    "genre": "eastern philosophy",
+    "count": 17
+  },
+  {
+    "genre": "ecclesiology",
+    "count": 1
+  },
+  {
+    "genre": "ecology",
+    "count": 41
+  },
+  {
+    "genre": "economics",
+    "count": 152
+  },
+  {
+    "genre": "education",
+    "count": 197
+  },
+  {
+    "genre": "edwardian",
+    "count": 21
+  },
+  {
+    "genre": "egypt",
+    "count": 142
+  },
+  {
+    "genre": "egyptian literature",
+    "count": 6
+  },
+  {
+    "genre": "engineering",
+    "count": 27
+  },
+  {
+    "genre": "english literature",
+    "count": 467
+  },
+  {
+    "genre": "entrepreneurship",
+    "count": 13
+  },
+  {
+    "genre": "environment",
+    "count": 96
+  },
+  {
+    "genre": "epic",
+    "count": 1245
+  },
+  {
+    "genre": "epic fantasy",
+    "count": 1634
+  },
+  {
+    "genre": "epic poetry",
+    "count": 21
+  },
+  {
+    "genre": "erotic historical romance",
+    "count": 6
+  },
+  {
+    "genre": "erotic horror",
+    "count": 1
+  },
+  {
+    "genre": "erotic paranormal romance",
+    "count": 2
+  },
+  {
+    "genre": "erotic romance",
+    "count": 250
+  },
+  {
+    "genre": "erotica",
+    "count": 492
+  },
+  {
+    "genre": "esoterica",
+    "count": 25
+  },
+  {
+    "genre": "esp",
+    "count": 13
+  },
+  {
+    "genre": "espionage",
+    "count": 206
+  },
+  {
+    "genre": "essays",
+    "count": 373
+  },
+  {
+    "genre": "ethnic",
+    "count": 10
+  },
+  {
+    "genre": "ethnic studies",
+    "count": 6
+  },
+  {
+    "genre": "ethnicity",
+    "count": 1
+  },
+  {
+    "genre": "european history",
+    "count": 290
+  },
+  {
+    "genre": "european literature",
+    "count": 105
+  },
+  {
+    "genre": "evangelism",
+    "count": 6
+  },
+  {
+    "genre": "evolution",
+    "count": 50
+  },
+  {
+    "genre": "fables",
+    "count": 56
+  },
+  {
+    "genre": "fae",
+    "count": 415
+  },
+  {
+    "genre": "fairies",
+    "count": 327
+  },
+  {
+    "genre": "fairy tale retellings",
+    "count": 223
+  },
+  {
+    "genre": "fairy tales",
+    "count": 814
+  },
+  {
+    "genre": "faith",
+    "count": 150
+  },
+  {
+    "genre": "family",
+    "count": 1317
+  },
+  {
+    "genre": "fandom",
+    "count": 52
+  },
+  {
+    "genre": "fantasy",
+    "count": 8790
+  },
+  {
+    "genre": "fantasy of manners",
+    "count": 35
+  },
+  {
+    "genre": "fantasy romance",
+    "count": 416
+  },
+  {
+    "genre": "fat",
+    "count": 5
+  },
+  {
+    "genre": "feminism",
+    "count": 378
+  },
+  {
+    "genre": "feminist theory",
+    "count": 5
+  },
+  {
+    "genre": "field guides",
+    "count": 10
+  },
+  {
+    "genre": "film",
+    "count": 460
+  },
+  {
+    "genre": "finance",
+    "count": 42
+  },
+  {
+    "genre": "finances",
+    "count": 10
+  },
+  {
+    "genre": "finnish literature",
+    "count": 6
+  },
+  {
+    "genre": "firefighters",
+    "count": 3
+  },
+  {
+    "genre": "fitness",
+    "count": 22
+  },
+  {
+    "genre": "folk tales",
+    "count": 79
+  },
+  {
+    "genre": "folklore",
+    "count": 376
+  },
+  {
+    "genre": "food",
+    "count": 440
+  },
+  {
+    "genre": "food and drink",
+    "count": 156
+  },
+  {
+    "genre": "food and wine",
+    "count": 32
+  },
+  {
+    "genre": "food history",
+    "count": 31
+  },
+  {
+    "genre": "food writing",
+    "count": 61
+  },
+  {
+    "genre": "foodie",
+    "count": 171
+  },
+  {
+    "genre": "football",
+    "count": 13
+  },
+  {
+    "genre": "forgotten realms",
+    "count": 129
+  },
+  {
+    "genre": "fractured fairy tales",
+    "count": 28
+  },
+  {
+    "genre": "france",
+    "count": 391
+  },
+  {
+    "genre": "french literature",
+    "count": 127
+  },
+  {
+    "genre": "french revolution",
+    "count": 23
+  },
+  {
+    "genre": "frugal",
+    "count": 1
+  },
+  {
+    "genre": "funnies",
+    "count": 33
+  },
+  {
+    "genre": "funny",
+    "count": 1797
+  },
+  {
+    "genre": "futuristic",
+    "count": 530
+  },
+  {
+    "genre": "futuristic romance",
+    "count": 58
+  },
+  {
+    "genre": "game design",
+    "count": 3
+  },
+  {
+    "genre": "gamebooks",
+    "count": 2
+  },
+  {
+    "genre": "games",
+    "count": 71
+  },
+  {
+    "genre": "gaming",
+    "count": 92
+  },
+  {
+    "genre": "gaming fiction",
+    "count": 9
+  },
+  {
+    "genre": "gardening",
+    "count": 28
+  },
+  {
+    "genre": "gastronomy",
+    "count": 25
+  },
+  {
+    "genre": "gay",
+    "count": 157
+  },
+  {
+    "genre": "gay for you",
+    "count": 11
+  },
+  {
+    "genre": "geek",
+    "count": 50
+  },
+  {
+    "genre": "gender",
+    "count": 147
+  },
+  {
+    "genre": "gender and sexuality",
+    "count": 10
+  },
+  {
+    "genre": "gender identity",
+    "count": 2
+  },
+  {
+    "genre": "gender roles",
+    "count": 11
+  },
+  {
+    "genre": "gender studies",
+    "count": 52
+  },
+  {
+    "genre": "genetics",
+    "count": 25
+  },
+  {
+    "genre": "geography",
+    "count": 77
+  },
+  {
+    "genre": "geology",
+    "count": 11
+  },
+  {
+    "genre": "georgian",
+    "count": 31
+  },
+  {
+    "genre": "georgian romance",
+    "count": 14
+  },
+  {
+    "genre": "german literature",
+    "count": 58
+  },
+  {
+    "genre": "germany",
+    "count": 153
+  },
+  {
+    "genre": "ghost stories",
+    "count": 73
+  },
+  {
+    "genre": "ghosts",
+    "count": 410
+  },
+  {
+    "genre": "glbt",
+    "count": 222
+  },
+  {
+    "genre": "global warming",
+    "count": 2
+  },
+  {
+    "genre": "gnosticism",
+    "count": 11
+  },
+  {
+    "genre": "go",
+    "count": 7
+  },
+  {
+    "genre": "god",
+    "count": 32
+  },
+  {
+    "genre": "goddess",
+    "count": 7
+  },
+  {
+    "genre": "gods",
+    "count": 234
+  },
+  {
+    "genre": "golden age mystery",
+    "count": 22
+  },
+  {
+    "genre": "google",
+    "count": 8
+  },
+  {
+    "genre": "goth",
+    "count": 13
+  },
+  {
+    "genre": "gothic",
+    "count": 462
+  },
+  {
+    "genre": "gothic horror",
+    "count": 93
+  },
+  {
+    "genre": "gothic romance",
+    "count": 19
+  },
+  {
+    "genre": "government",
+    "count": 32
+  },
+  {
+    "genre": "grad school",
+    "count": 134
+  },
+  {
+    "genre": "graffiti",
+    "count": 1
+  },
+  {
+    "genre": "graphic literature",
+    "count": 81
+  },
+  {
+    "genre": "graphic non fiction",
+    "count": 4
+  },
+  {
+    "genre": "graphic novels",
+    "count": 2267
+  },
+  {
+    "genre": "graphic novels comics",
+    "count": 1076
+  },
+  {
+    "genre": "graphic novels comics manga",
+    "count": 199
+  },
+  {
+    "genre": "graphic novels manga",
+    "count": 918
+  },
+  {
+    "genre": "graphica",
+    "count": 12
+  },
+  {
+    "genre": "greece",
+    "count": 137
+  },
+  {
+    "genre": "greek mythology",
+    "count": 115
+  },
+  {
+    "genre": "green",
+    "count": 22
+  },
+  {
+    "genre": "grimm",
+    "count": 2
+  },
+  {
+    "genre": "guidebook",
+    "count": 5
+  },
+  {
+    "genre": "guides",
+    "count": 40
+  },
+  {
+    "genre": "hackers",
+    "count": 6
+  },
+  {
+    "genre": "halloween",
+    "count": 92
+  },
+  {
+    "genre": "hard boiled",
+    "count": 49
+  },
+  {
+    "genre": "hard science fiction",
+    "count": 52
+  },
+  {
+    "genre": "harlequin",
+    "count": 24
+  },
+  {
+    "genre": "health",
+    "count": 180
+  },
+  {
+    "genre": "herbs",
+    "count": 4
+  },
+  {
+    "genre": "heroic fantasy",
+    "count": 275
+  },
+  {
+    "genre": "high fantasy",
+    "count": 2020
+  },
+  {
+    "genre": "high school",
+    "count": 1147
+  },
+  {
+    "genre": "hinduism",
+    "count": 1
+  },
+  {
+    "genre": "historical",
+    "count": 4296
+  },
+  {
+    "genre": "historical fantasy",
+    "count": 556
+  },
+  {
+    "genre": "historical fiction",
+    "count": 4037
+  },
+  {
+    "genre": "historical mystery",
+    "count": 540
+  },
+  {
+    "genre": "historical romance",
+    "count": 644
+  },
+  {
+    "genre": "history",
+    "count": 3445
+  },
+  {
+    "genre": "history american civil war",
+    "count": 4
+  },
+  {
+    "genre": "history and politics",
+    "count": 21
+  },
+  {
+    "genre": "history of science",
+    "count": 28
+  },
+  {
+    "genre": "hockey",
+    "count": 1
+  },
+  {
+    "genre": "holiday",
+    "count": 102
+  },
+  {
+    "genre": "holland",
+    "count": 3
+  },
+  {
+    "genre": "holocaust",
+    "count": 70
+  },
+  {
+    "genre": "horror",
+    "count": 2053
+  },
+  {
+    "genre": "horse racing",
+    "count": 61
+  },
+  {
+    "genre": "horses",
+    "count": 270
+  },
+  {
+    "genre": "horticulture",
+    "count": 6
+  },
+  {
+    "genre": "how to",
+    "count": 143
+  },
+  {
+    "genre": "humanities",
+    "count": 31
+  },
+  {
+    "genre": "humor",
+    "count": 3120
+  },
+  {
+    "genre": "hungarian literature",
+    "count": 1
+  },
+  {
+    "genre": "hungary",
+    "count": 3
+  },
+  {
+    "genre": "illness",
+    "count": 36
+  },
+  {
+    "genre": "india",
+    "count": 87
+  },
+  {
+    "genre": "indian literature",
+    "count": 15
+  },
+  {
+    "genre": "indonesian literature",
+    "count": 2
+  },
+  {
+    "genre": "information science",
+    "count": 1
+  },
+  {
+    "genre": "inspirational",
+    "count": 254
+  },
+  {
+    "genre": "international",
+    "count": 138
+  },
+  {
+    "genre": "internet",
+    "count": 19
+  },
+  {
+    "genre": "interracial romance",
+    "count": 12
+  },
+  {
+    "genre": "intersex",
+    "count": 1
+  },
+  {
+    "genre": "iran",
+    "count": 15
+  },
+  {
+    "genre": "ireland",
+    "count": 119
+  },
+  {
+    "genre": "irish literature",
+    "count": 36
+  },
+  {
+    "genre": "islam",
+    "count": 84
+  },
+  {
+    "genre": "israel",
+    "count": 30
+  },
+  {
+    "genre": "italian literature",
+    "count": 26
+  },
+  {
+    "genre": "italy",
+    "count": 226
+  },
+  {
+    "genre": "japan",
+    "count": 635
+  },
+  {
+    "genre": "japanese history",
+    "count": 20
+  },
+  {
+    "genre": "japanese literature",
+    "count": 90
+  },
+  {
+    "genre": "jazz",
+    "count": 7
+  },
+  {
+    "genre": "jewish",
+    "count": 85
+  },
+  {
+    "genre": "josei",
+    "count": 124
+  },
+  {
+    "genre": "journal",
+    "count": 6
+  },
+  {
+    "genre": "journaling",
+    "count": 1
+  },
+  {
+    "genre": "journalism",
+    "count": 154
+  },
+  {
+    "genre": "judaica",
+    "count": 20
+  },
+  {
+    "genre": "judaism",
+    "count": 52
+  },
+  {
+    "genre": "juvenile",
+    "count": 1660
+  },
+  {
+    "genre": "kazakhstan",
+    "count": 3
+  },
+  {
+    "genre": "kenya",
+    "count": 9
+  },
+  {
+    "genre": "knitting",
+    "count": 9
+  },
+  {
+    "genre": "komik",
+    "count": 292
+  },
+  {
+    "genre": "labor",
+    "count": 6
+  },
+  {
+    "genre": "landscaping",
+    "count": 1
+  },
+  {
+    "genre": "language",
+    "count": 108
+  },
+  {
+    "genre": "latin american",
+    "count": 40
+  },
+  {
+    "genre": "latin american history",
+    "count": 5
+  },
+  {
+    "genre": "latin american literature",
+    "count": 23
+  },
+  {
+    "genre": "law",
+    "count": 49
+  },
+  {
+    "genre": "lds",
+    "count": 13
+  },
+  {
+    "genre": "lds fiction",
+    "count": 3
+  },
+  {
+    "genre": "lds non fiction",
+    "count": 2
+  },
+  {
+    "genre": "leadership",
+    "count": 80
+  },
+  {
+    "genre": "lebanon",
+    "count": 6
+  },
+  {
+    "genre": "legal thriller",
+    "count": 8
+  },
+  {
+    "genre": "lesbian",
+    "count": 92
+  },
+  {
+    "genre": "lesbian fiction",
+    "count": 19
+  },
+  {
+    "genre": "lesbian romance",
+    "count": 6
+  },
+  {
+    "genre": "librarianship",
+    "count": 3
+  },
+  {
+    "genre": "library science",
+    "count": 3
+  },
+  {
+    "genre": "light novel",
+    "count": 30
+  },
+  {
+    "genre": "literary criticism",
+    "count": 113
+  },
+  {
+    "genre": "literary fiction",
+    "count": 1347
+  },
+  {
+    "genre": "literature",
+    "count": 3071
+  },
+  {
+    "genre": "logic",
+    "count": 3
+  },
+  {
+    "genre": "love",
+    "count": 989
+  },
+  {
+    "genre": "love inspired",
+    "count": 1
+  },
+  {
+    "genre": "love story",
+    "count": 127
+  },
+  {
+    "genre": "lovecraftian",
+    "count": 50
+  },
+  {
+    "genre": "low fantasy",
+    "count": 100
+  },
+  {
+    "genre": "m f m",
+    "count": 66
+  },
+  {
+    "genre": "m m contemporary",
+    "count": 6
+  },
+  {
+    "genre": "m m f",
+    "count": 29
+  },
+  {
+    "genre": "m m m",
+    "count": 6
+  },
+  {
+    "genre": "m m m f",
+    "count": 6
+  },
+  {
+    "genre": "m m paranormal",
+    "count": 13
+  },
+  {
+    "genre": "m m romance",
+    "count": 76
+  },
+  {
+    "genre": "magic",
+    "count": 3596
+  },
+  {
+    "genre": "magical realism",
+    "count": 462
+  },
+  {
+    "genre": "magick",
+    "count": 59
+  },
+  {
+    "genre": "mail order brides",
+    "count": 2
+  },
+  {
+    "genre": "management",
+    "count": 30
+  },
+  {
+    "genre": "manga",
+    "count": 1797
+  },
+  {
+    "genre": "manga romance",
+    "count": 482
+  },
+  {
+    "genre": "manhwa",
+    "count": 118
+  },
+  {
+    "genre": "mannerpunk",
+    "count": 11
+  },
+  {
+    "genre": "maps",
+    "count": 13
+  },
+  {
+    "genre": "maritime",
+    "count": 92
+  },
+  {
+    "genre": "marriage",
+    "count": 85
+  },
+  {
+    "genre": "martyrdom",
+    "count": 1
+  },
+  {
+    "genre": "marvel",
+    "count": 75
+  },
+  {
+    "genre": "mathematics",
+    "count": 29
+  },
+  {
+    "genre": "media tie in",
+    "count": 555
+  },
+  {
+    "genre": "medical",
+    "count": 117
+  },
+  {
+    "genre": "medicine",
+    "count": 87
+  },
+  {
+    "genre": "medieval",
+    "count": 981
+  },
+  {
+    "genre": "medieval romance",
+    "count": 10
+  },
+  {
+    "genre": "memoir",
+    "count": 629
+  },
+  {
+    "genre": "menage",
+    "count": 111
+  },
+  {
+    "genre": "mental health",
+    "count": 117
+  },
+  {
+    "genre": "mental illness",
+    "count": 149
+  },
+  {
+    "genre": "mermaids",
+    "count": 39
+  },
+  {
+    "genre": "metaphysics",
+    "count": 75
+  },
+  {
+    "genre": "microhistory",
+    "count": 55
+  },
+  {
+    "genre": "middle ages",
+    "count": 258
+  },
+  {
+    "genre": "middle grade",
+    "count": 1360
+  },
+  {
+    "genre": "military",
+    "count": 936
+  },
+  {
+    "genre": "military history",
+    "count": 206
+  },
+  {
+    "genre": "military science fiction",
+    "count": 220
+  },
+  {
+    "genre": "mills and boon",
+    "count": 2
+  },
+  {
+    "genre": "modern",
+    "count": 459
+  },
+  {
+    "genre": "modern classics",
+    "count": 429
+  },
+  {
+    "genre": "mormonism",
+    "count": 2
+  },
+  {
+    "genre": "motorcycle",
+    "count": 3
+  },
+  {
+    "genre": "motorcycling",
+    "count": 2
+  },
+  {
+    "genre": "mountaineering",
+    "count": 8
+  },
+  {
+    "genre": "movies",
+    "count": 582
+  },
+  {
+    "genre": "multicultural literature",
+    "count": 19
+  },
+  {
+    "genre": "multiple partners",
+    "count": 55
+  },
+  {
+    "genre": "murder mystery",
+    "count": 550
+  },
+  {
+    "genre": "music",
+    "count": 214
+  },
+  {
+    "genre": "music biography",
+    "count": 3
+  },
+  {
+    "genre": "musicals",
+    "count": 9
+  },
+  {
+    "genre": "musicians",
+    "count": 15
+  },
+  {
+    "genre": "mystery",
+    "count": 4208
+  },
+  {
+    "genre": "mystery thriller",
+    "count": 1498
+  },
+  {
+    "genre": "mysticism",
+    "count": 34
+  },
+  {
+    "genre": "mythology",
+    "count": 1201
+  },
+  {
+    "genre": "natural history",
+    "count": 75
+  },
+  {
+    "genre": "nature",
+    "count": 262
+  },
+  {
+    "genre": "near future",
+    "count": 56
+  },
+  {
+    "genre": "nerd",
+    "count": 5
+  },
+  {
+    "genre": "neuroscience",
+    "count": 20
+  },
+  {
+    "genre": "new adult",
+    "count": 200
+  },
+  {
+    "genre": "new age",
+    "count": 73
+  },
+  {
+    "genre": "new testament",
+    "count": 4
+  },
+  {
+    "genre": "new weird",
+    "count": 36
+  },
+  {
+    "genre": "new york",
+    "count": 187
+  },
+  {
+    "genre": "noir",
+    "count": 198
+  },
+  {
+    "genre": "norman",
+    "count": 3
+  },
+  {
+    "genre": "novella",
+    "count": 349
+  },
+  {
+    "genre": "novels",
+    "count": 5630
+  },
+  {
+    "genre": "nsfw",
+    "count": 1
+  },
+  {
+    "genre": "nursery rhymes",
+    "count": 4
+  },
+  {
+    "genre": "nursing",
+    "count": 3
+  },
+  {
+    "genre": "nutrition",
+    "count": 46
+  },
+  {
+    "genre": "occult",
+    "count": 181
+  },
+  {
+    "genre": "occult detective",
+    "count": 3
+  },
+  {
+    "genre": "oral history",
+    "count": 5
+  },
+  {
+    "genre": "origami",
+    "count": 1
+  },
+  {
+    "genre": "ornithology",
+    "count": 4
+  },
+  {
+    "genre": "outdoors",
+    "count": 36
+  },
+  {
+    "genre": "paganism",
+    "count": 52
+  },
+  {
+    "genre": "pakistan",
+    "count": 13
+  },
+  {
+    "genre": "paranormal",
+    "count": 2978
+  },
+  {
+    "genre": "paranormal mystery",
+    "count": 77
+  },
+  {
+    "genre": "paranormal romance",
+    "count": 1005
+  },
+  {
+    "genre": "paranormal urban fantasy",
+    "count": 240
+  },
+  {
+    "genre": "parenting",
+    "count": 58
+  },
+  {
+    "genre": "peak oil",
+    "count": 2
+  },
+  {
+    "genre": "personal development",
+    "count": 103
+  },
+  {
+    "genre": "philosophy",
+    "count": 948
+  },
+  {
+    "genre": "photography",
+    "count": 57
+  },
+  {
+    "genre": "physics",
+    "count": 45
+  },
+  {
+    "genre": "picture books",
+    "count": 597
+  },
+  {
+    "genre": "pirates",
+    "count": 107
+  },
+  {
+    "genre": "planetary romance",
+    "count": 42
+  },
+  {
+    "genre": "pre k",
+    "count": 20
+  },
+  {
+    "genre": "prehistoric",
+    "count": 30
+  },
+  {
+    "genre": "prehistory",
+    "count": 27
+  },
+  {
+    "genre": "presidents",
+    "count": 17
+  },
+  {
+    "genre": "princesses",
+    "count": 113
+  },
+  {
+    "genre": "productivity",
+    "count": 32
+  },
+  {
+    "genre": "programming",
+    "count": 6
+  },
+  {
+    "genre": "prostitution",
+    "count": 20
+  },
+  {
+    "genre": "psychological thriller",
+    "count": 71
+  },
+  {
+    "genre": "psychology",
+    "count": 488
+  },
+  {
+    "genre": "pulp",
+    "count": 226
+  },
+  {
+    "genre": "pulp adventure",
+    "count": 14
+  },
+  {
+    "genre": "pulp noir",
+    "count": 2
+  },
+  {
+    "genre": "punk",
+    "count": 8
+  },
+  {
+    "genre": "puzzles",
+    "count": 8
+  },
+  {
+    "genre": "queer",
+    "count": 281
+  },
+  {
+    "genre": "queer lit",
+    "count": 50
+  },
+  {
+    "genre": "quilting",
+    "count": 3
+  },
+  {
+    "genre": "rabbits",
+    "count": 19
+  },
+  {
+    "genre": "race",
+    "count": 134
+  },
+  {
+    "genre": "racing",
+    "count": 10
+  },
+  {
+    "genre": "railways",
+    "count": 2
+  },
+  {
+    "genre": "read for college",
+    "count": 17
+  },
+  {
+    "genre": "read for school",
+    "count": 873
+  },
+  {
+    "genre": "realistic fiction",
+    "count": 1184
+  },
+  {
+    "genre": "recreation",
+    "count": 8
+  },
+  {
+    "genre": "reference",
+    "count": 1095
+  },
+  {
+    "genre": "regency",
+    "count": 295
+  },
+  {
+    "genre": "regency romance",
+    "count": 190
+  },
+  {
+    "genre": "relationships",
+    "count": 389
+  },
+  {
+    "genre": "religion",
+    "count": 950
+  },
+  {
+    "genre": "research",
+    "count": 401
+  },
+  {
+    "genre": "retellings",
+    "count": 379
+  },
+  {
+    "genre": "road trip",
+    "count": 32
+  },
+  {
+    "genre": "robots",
+    "count": 87
+  },
+  {
+    "genre": "rock n roll",
+    "count": 6
+  },
+  {
+    "genre": "role playing games",
+    "count": 24
+  },
+  {
+    "genre": "roman",
+    "count": 332
+  },
+  {
+    "genre": "roman britain",
+    "count": 8
+  },
+  {
+    "genre": "romance",
+    "count": 5249
+  },
+  {
+    "genre": "romania",
+    "count": 7
+  },
+  {
+    "genre": "romanian literature",
+    "count": 3
+  },
+  {
+    "genre": "romantic",
+    "count": 338
+  },
+  {
+    "genre": "romantic suspense",
+    "count": 151
+  },
+  {
+    "genre": "russia",
+    "count": 149
+  },
+  {
+    "genre": "russian literature",
+    "count": 93
+  },
+  {
+    "genre": "satanism",
+    "count": 2
+  },
+  {
+    "genre": "scandinavian literature",
+    "count": 26
+  },
+  {
+    "genre": "school",
+    "count": 2006
+  },
+  {
+    "genre": "school stories",
+    "count": 16
+  },
+  {
+    "genre": "science",
+    "count": 2626
+  },
+  {
+    "genre": "science fiction",
+    "count": 5372
+  },
+  {
+    "genre": "science fiction fantasy",
+    "count": 3356
+  },
+  {
+    "genre": "science fiction romance",
+    "count": 143
+  },
+  {
+    "genre": "science nature",
+    "count": 62
+  },
+  {
+    "genre": "scotland",
+    "count": 140
+  },
+  {
+    "genre": "scripture",
+    "count": 7
+  },
+  {
+    "genre": "seinen",
+    "count": 148
+  },
+  {
+    "genre": "self help",
+    "count": 263
+  },
+  {
+    "genre": "sequential art",
+    "count": 607
+  },
+  {
+    "genre": "sewing",
+    "count": 11
+  },
+  {
+    "genre": "sex and erotica",
+    "count": 1
+  },
+  {
+    "genre": "sex work",
+    "count": 8
+  },
+  {
+    "genre": "sexuality",
+    "count": 93
+  },
+  {
+    "genre": "shapeshifters",
+    "count": 445
+  },
+  {
+    "genre": "shinigami",
+    "count": 50
+  },
+  {
+    "genre": "shojo",
+    "count": 884
+  },
+  {
+    "genre": "shonen",
+    "count": 196
+  },
+  {
+    "genre": "short stories",
+    "count": 1314
+  },
+  {
+    "genre": "short story collection",
+    "count": 219
+  },
+  {
+    "genre": "shounen ai",
+    "count": 31
+  },
+  {
+    "genre": "silhouette",
+    "count": 2
+  },
+  {
+    "genre": "skepticism",
+    "count": 18
+  },
+  {
+    "genre": "slash fiction",
+    "count": 3
+  },
+  {
+    "genre": "slice of life",
+    "count": 361
+  },
+  {
+    "genre": "soccer",
+    "count": 3
+  },
+  {
+    "genre": "social",
+    "count": 147
+  },
+  {
+    "genre": "social change",
+    "count": 8
+  },
+  {
+    "genre": "social issues",
+    "count": 61
+  },
+  {
+    "genre": "social justice",
+    "count": 49
+  },
+  {
+    "genre": "social media",
+    "count": 7
+  },
+  {
+    "genre": "social movements",
+    "count": 3
+  },
+  {
+    "genre": "social science",
+    "count": 135
+  },
+  {
+    "genre": "society",
+    "count": 142
+  },
+  {
+    "genre": "sociology",
+    "count": 307
+  },
+  {
+    "genre": "soldiers",
+    "count": 19
+  },
+  {
+    "genre": "southern",
+    "count": 181
+  },
+  {
+    "genre": "southern gothic",
+    "count": 41
+  },
+  {
+    "genre": "space",
+    "count": 1078
+  },
+  {
+    "genre": "space opera",
+    "count": 914
+  },
+  {
+    "genre": "spain",
+    "count": 66
+  },
+  {
+    "genre": "spanish literature",
+    "count": 21
+  },
+  {
+    "genre": "speculative fiction",
+    "count": 2614
+  },
+  {
+    "genre": "spider man",
+    "count": 2
+  },
+  {
+    "genre": "spiritualism",
+    "count": 15
+  },
+  {
+    "genre": "spirituality",
+    "count": 362
+  },
+  {
+    "genre": "splatterpunk",
+    "count": 9
+  },
+  {
+    "genre": "sports",
+    "count": 133
+  },
+  {
+    "genre": "sports and games",
+    "count": 3
+  },
+  {
+    "genre": "sports romance",
+    "count": 10
+  },
+  {
+    "genre": "spy thriller",
+    "count": 71
+  },
+  {
+    "genre": "star trek",
+    "count": 331
+  },
+  {
+    "genre": "star trek deep space nine",
+    "count": 38
+  },
+  {
+    "genre": "star trek enterprise",
+    "count": 1
+  },
+  {
+    "genre": "star trek original series",
+    "count": 3
+  },
+  {
+    "genre": "star trek the next generation",
+    "count": 75
+  },
+  {
+    "genre": "star trek voyager",
+    "count": 28
+  },
+  {
+    "genre": "star wars",
+    "count": 211
+  },
+  {
+    "genre": "steampunk",
+    "count": 435
+  },
+  {
+    "genre": "steampunk romance",
+    "count": 11
+  },
+  {
+    "genre": "storytime",
+    "count": 98
+  },
+  {
+    "genre": "street art",
+    "count": 1
+  },
+  {
+    "genre": "strippers",
+    "count": 1
+  },
+  {
+    "genre": "stuart",
+    "count": 12
+  },
+  {
+    "genre": "students",
+    "count": 2
+  },
+  {
+    "genre": "sunday comics",
+    "count": 4
+  },
+  {
+    "genre": "superheroes",
+    "count": 266
+  },
+  {
+    "genre": "superman",
+    "count": 25
+  },
+  {
+    "genre": "supernatural",
+    "count": 2511
+  },
+  {
+    "genre": "surreal",
+    "count": 81
+  },
+  {
+    "genre": "survival",
+    "count": 446
+  },
+  {
+    "genre": "suspense",
+    "count": 1621
+  },
+  {
+    "genre": "sustainability",
+    "count": 19
+  },
+  {
+    "genre": "swashbuckling",
+    "count": 33
+  },
+  {
+    "genre": "sweden",
+    "count": 29
+  },
+  {
+    "genre": "swedish literature",
+    "count": 19
+  },
+  {
+    "genre": "sword and planet",
+    "count": 29
+  },
+  {
+    "genre": "sword and sorcery",
+    "count": 535
+  },
+  {
+    "genre": "taoism",
+    "count": 4
+  },
+  {
+    "genre": "tarot",
+    "count": 13
+  },
+  {
+    "genre": "tasmania",
+    "count": 1
+  },
+  {
+    "genre": "tea",
+    "count": 16
+  },
+  {
+    "genre": "teachers",
+    "count": 8
+  },
+  {
+    "genre": "teaching",
+    "count": 91
+  },
+  {
+    "genre": "technical",
+    "count": 8
+  },
+  {
+    "genre": "technology",
+    "count": 119
+  },
+  {
+    "genre": "teen",
+    "count": 2207
+  },
+  {
+    "genre": "terrorism",
+    "count": 37
+  },
+  {
+    "genre": "textbooks",
+    "count": 108
+  },
+  {
+    "genre": "the 1700s",
+    "count": 8
+  },
+  {
+    "genre": "theatre",
+    "count": 157
+  },
+  {
+    "genre": "thelema",
+    "count": 1
+  },
+  {
+    "genre": "theology",
+    "count": 183
+  },
+  {
+    "genre": "theory",
+    "count": 140
+  },
+  {
+    "genre": "theosophy",
+    "count": 1
+  },
+  {
+    "genre": "threesome",
+    "count": 7
+  },
+  {
+    "genre": "thriller",
+    "count": 2174
+  },
+  {
+    "genre": "time travel",
+    "count": 458
+  },
+  {
+    "genre": "time travel romance",
+    "count": 18
+  },
+  {
+    "genre": "traditional regency",
+    "count": 6
+  },
+  {
+    "genre": "tragedy",
+    "count": 138
+  },
+  {
+    "genre": "trans",
+    "count": 7
+  },
+  {
+    "genre": "transgender",
+    "count": 4
+  },
+  {
+    "genre": "travel",
+    "count": 526
+  },
+  {
+    "genre": "travelogue",
+    "count": 57
+  },
+  {
+    "genre": "trivia",
+    "count": 37
+  },
+  {
+    "genre": "true crime",
+    "count": 129
+  },
+  {
+    "genre": "true story",
+    "count": 86
+  },
+  {
+    "genre": "tudor",
+    "count": 140
+  },
+  {
+    "genre": "turkish",
+    "count": 22
+  },
+  {
+    "genre": "turkish literature",
+    "count": 11
+  },
+  {
+    "genre": "tv",
+    "count": 337
+  },
+  {
+    "genre": "ukraine",
+    "count": 8
+  },
+  {
+    "genre": "ukrainian literature",
+    "count": 2
+  },
+  {
+    "genre": "unicorns",
+    "count": 41
+  },
+  {
+    "genre": "united states",
+    "count": 257
+  },
+  {
+    "genre": "urban",
+    "count": 446
+  },
+  {
+    "genre": "urban fantasy",
+    "count": 1978
+  },
+  {
+    "genre": "urban legends",
+    "count": 1
+  },
+  {
+    "genre": "urban planning",
+    "count": 6
+  },
+  {
+    "genre": "urban studies",
+    "count": 7
+  },
+  {
+    "genre": "urbanism",
+    "count": 10
+  },
+  {
+    "genre": "us presidents",
+    "count": 4
+  },
+  {
+    "genre": "utopia",
+    "count": 37
+  },
+  {
+    "genre": "vampire hunters",
+    "count": 4
+  },
+  {
+    "genre": "vampires",
+    "count": 785
+  },
+  {
+    "genre": "vegan",
+    "count": 9
+  },
+  {
+    "genre": "vegetarian",
+    "count": 17
+  },
+  {
+    "genre": "vegetarianism",
+    "count": 1
+  },
+  {
+    "genre": "victorian",
+    "count": 491
+  },
+  {
+    "genre": "victorian romance",
+    "count": 45
+  },
+  {
+    "genre": "video games",
+    "count": 47
+  },
+  {
+    "genre": "viking romance",
+    "count": 1
+  },
+  {
+    "genre": "visual art",
+    "count": 5
+  },
+  {
+    "genre": "walking",
+    "count": 8
+  },
+  {
+    "genre": "war",
+    "count": 1550
+  },
+  {
+    "genre": "web",
+    "count": 13
+  },
+  {
+    "genre": "webcomic",
+    "count": 51
+  },
+  {
+    "genre": "weird fiction",
+    "count": 113
+  },
+  {
+    "genre": "werecats",
+    "count": 2
+  },
+  {
+    "genre": "werewolves",
+    "count": 446
+  },
+  {
+    "genre": "western",
+    "count": 353
+  },
+  {
+    "genre": "western historical romance",
+    "count": 2
+  },
+  {
+    "genre": "western romance",
+    "count": 14
+  },
+  {
+    "genre": "whodunit",
+    "count": 40
+  },
+  {
+    "genre": "wicca",
+    "count": 34
+  },
+  {
+    "genre": "wilderness",
+    "count": 32
+  },
+  {
+    "genre": "wildlife",
+    "count": 19
+  },
+  {
+    "genre": "wine",
+    "count": 10
+  },
+  {
+    "genre": "witchcraft",
+    "count": 78
+  },
+  {
+    "genre": "witches",
+    "count": 674
+  },
+  {
+    "genre": "wizards",
+    "count": 375
+  },
+  {
+    "genre": "wolves",
+    "count": 109
+  },
+  {
+    "genre": "women and gender studies",
+    "count": 2
+  },
+  {
+    "genre": "womens",
+    "count": 9
+  },
+  {
+    "genre": "womens fiction",
+    "count": 60
+  },
+  {
+    "genre": "womens rights",
+    "count": 2
+  },
+  {
+    "genre": "womens studies",
+    "count": 41
+  },
+  {
+    "genre": "wonder woman",
+    "count": 21
+  },
+  {
+    "genre": "words",
+    "count": 20
+  },
+  {
+    "genre": "world history",
+    "count": 257
+  },
+  {
+    "genre": "world war i",
+    "count": 37
+  },
+  {
+    "genre": "world war ii",
+    "count": 189
+  },
+  {
+    "genre": "writing",
+    "count": 219
+  },
+  {
+    "genre": "x men",
+    "count": 9
+  },
+  {
+    "genre": "yaoi",
+    "count": 39
+  },
+  {
+    "genre": "young adult",
+    "count": 5367
+  },
+  {
+    "genre": "young adult contemporary",
+    "count": 2
+  },
+  {
+    "genre": "young adult fantasy",
+    "count": 483
+  },
+  {
+    "genre": "young adult historical fiction",
+    "count": 5
+  },
+  {
+    "genre": "young adult paranormal",
+    "count": 13
+  },
+  {
+    "genre": "young adult romance",
+    "count": 31
+  },
+  {
+    "genre": "young adult science fiction",
+    "count": 2
+  },
+  {
+    "genre": "young readers",
+    "count": 374
+  },
+  {
+    "genre": "yuri",
+    "count": 1
+  },
+  {
+    "genre": "zen",
+    "count": 22
+  },
+  {
+    "genre": "zombies",
+    "count": 334
+  }
+]

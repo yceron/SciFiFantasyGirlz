@@ -50,7 +50,10 @@ var viewModel = kendo.observable({
 
 function onSeriesHover(e) {
     viewModel.set("currentBook", e.dataItem);
-    console.log(kendo.format("Series hover :: {0} ({1}): {2}", e.series.name, e.category, e.value));
+}
+
+function onDataBound(e) {
+    viewModel.set("currentBook", e.sender.dataSource.at(5));
 }
 
 function createChart() {
@@ -106,9 +109,12 @@ function createChart() {
             format: "{0}",
             template: "#= dataItem.title #"
         },
-        seriesClick: onSeriesHover
+        seriesClick: onSeriesHover,
+        dataBound: onDataBound
     });
 }
+
+
 
 $(window).on("resize", function () {
     $("#chart").data("kendoChart").refresh();

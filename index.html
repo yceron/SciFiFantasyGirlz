@@ -7,10 +7,10 @@
     <link href="thirdparty/kendo/styles/kendo.common-bootstrap.min.css" rel="stylesheet" />
     <link href="thirdparty/kendo/styles/kendo.bootstrap.min.css" rel="stylesheet" />
 
-    <link href="css/site.css" rel="stylesheet" />
+    <link href="css/site.min.css" rel="stylesheet" />
     <script src="thirdparty/kendo/js/jquery.min.js"></script>
     <script src="thirdparty/kendo/js/kendo.all.min.js"></script>
-    <script src="thirdparty/plotly.js/dist/plotly.js"></script>
+
     <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -35,7 +35,8 @@
                 The <a target="_blank" href="https://www.goodreads.com/group/show/131805-sci-fi-fantasy-girlz">Sci-Fi & Fantasy Girlz</a> is a <a target="_blank" href="https://www.goodreads.com">Goodreads</a> group created on April 5th 2014. The group primarily focuses on science fiction and fantasy written by women. We also discuss works written by men that feature female protagonists/main characters.
             </p>
             <p>
-                This small analysis explores our group's members and the books that we have read and discussed.
+                I wanted to explore our group. Who are members are, our reading preferences, so I gathered some data via the Goodreads API and analized it with R.
+                On this page is a summary of what I found.
             </p>
 
             <h2 class="subtitle">The Books We Have Read</h2>
@@ -43,8 +44,8 @@
             <p>To the date I gathered this data, our group had read 24 books from different categories like epic fantasy, science fiction, historical fiction and even chick lit! (according to Goodreads, anyway)</p>
             <p>We started doing two bi-monthly selections, then this year we decided to try something different and started selecting one book each month.</p>
             <p></p>
-            <p>Below is a chart that displays the books we have read so far. I wanted to compare how we rated the books as a group against Goodreads average ratings. So in this chart, you will see the group's average rating displayed as green bars, and Goodread's average rating represented by the blue lines.</p>
-            <p class="alert alert-info"><b>You can click on any bar on the chart to see more info about the book.</b></p>
+            <p>I wanted to compare our group members ratings against Goodreads average ratings. So in the following chart, you will see the group's average rating displayed as green bars, and Goodread's average rating represented by the blue lines. </p>
+            <p class="alert alert-info"><b>You can click on any value on the chart to see more info about that particular book.</b></p>
             <div id="chart"></div>
 
             <div id="bookInfo" data-bind="visible: currentBook">
@@ -71,9 +72,9 @@
                     <div class="col-md-3">
                         <div><span class="title">Group's rating</span><span data-bind="html: groupRatingStars"></span></div>
                         <div>
-                            <span>Read by </span><span data-bind="text: currentBook.group_read_count" data-format="N0"></span> members
+                            <span>Read by </span><span data-bind="text: currentBook.group_read_count" data-format="N0"></span> member(s)
                         </div>
-                        
+
                         <div class="viewbook">
                             <a class="btn btn-default" target="_blank" data-bind="attr: { href: currentBook.url }"><img src="images/goodreads_small.png" /> View on Goodreads</a>
 
@@ -84,15 +85,16 @@
             </div>
         </div>
 
-
+        <br />
         <h2 class="subtitle">Group Members</h2>
+
 
         <div id="members">
             <div class="row">
 
-                <div class="col-md-8">
+                <div class="col-md-12">
                     <p>
-                        At the date the data was gathered, the Sci-Fi & Fantasy Girlz group had 246 members from all over the world!
+                        On the date the data was gathered, the Sci-Fi & Fantasy Girlz group had 246 members from all over the world!
                     </p>
                     <p>
                         Our gender distribution is 61% women, 13% men and 26% not disclosed.
@@ -101,43 +103,61 @@
                     <div id="map">
                     </div>
                 </div>
-                <div class="col-md-4">
-                    The majority of our group members haven't disclosed their age on their profile, but this is the breakdown for those who have set their age public.
-                    <div id="ageChart">
+                <div class="col-md-12">
+                    <br />
+                </div>
+                <div class="col-md-6">
+                    <br />
+                    <div id="ageChart"></div>
+                    <br />
+                    <div class="alert alert-success">
+                        The majority of our group members haven't disclosed their age on their profile, but this is the breakdown for those who have set their age.
                     </div>
-                    <br />A big part of our users registered in 2014, but we have members that have been on Goodreads since 2007.
+
+                </div>
+                <div class="col-md-6">
+                    <br />
                     <div id="membershipChart"></div>
+                    <br />
+                    <div class="alert alert-success">Our members have been on Goodreads since 2007, while most users registered in 2014. The 19 unknown are users with private profiles.</div>
+
+
                 </div>
                 <div class="col-md-12">
                     <br />
                     We have been slowly growing from 25 members on our first month to 246 at the date this data was collected. The following chart shows how our group has grown since it was created.
-                </div>
-                <div class="col-md-12">
+
                     <div id="registrationChart"></div>
                 </div>
             </div>
 
         </div>
 
-        <h2 class="subtitle">That's All Folks!</h2>
-        <p>
-            That's all, for now. I want to keep getting more insights out of our group's data.
-            Among the things I want to explore are what are we discussing on the group's forums, how are members are connected and what else do we read.
-        </p>
-        <p>My next step is to go deeper into the books our members read. </p>
+        <h2 class="subtitle">What our members read</h2>
+        <p>I also explored what other kinds of books the members of the group reads. For this, I downloaded a list of all the books read by users and got the shelves for each book on Goodreads. We read many different genres, but we seem to share the love for fantasy and science fiction.</p>
+
+        <div class="row">
+            <div class="col-md-12">
+                <img class="img-responsive" src="images/members_categories.png" />
+            </div>
+        </div>
+
+        <h2 class="subtitle">That's all folks!</h2>
+        <p>That's all, for now. I still want to explore our group's social composition and do some analysis on our discussions. After I complete that, I will share my findings.</p>
 
         <br />
         <div class="well">
             <h2>About this analysis</h2>
-            <p>The data gathering and processing requried for this analysis was done in R using Goodread's publicly available API. It is based on data captured on April, 2016. After processing the final data was exported in json format.</p>
-            <p>This document is HTML with Kendo Charts for the charts, plot.ly for the world map, and Javascript for connecting everything together. </p>
-            <p>I will eventually get my scripts ready for public consumption and put them on Github, but for now, no one should be exposed to that mess :)</p>
+            <p>The data gathering and processing required for this analysis were done in R using Goodread's publicly available API. It is based on data captured on April, 2016. After processing the final data was exported in json format in order to be included in this page.</p>
+            <p>This document was created using Kendo UI for the charts and map. Javascript was used to glue everything together. </p>
+            <p>I will eventually get my scripts ready for public consumption and share them on Github, but for now, no one should be exposed to that mess :)</p>
+            <h2>Data Privacy</h2>
+            <p>This data was gathered using Goodread's API which respects the privacy setting for users. Data from users with a private profile is not available, so their data is not included in this analysis.</p>
 
             <h2>About me</h2>
             <p>I am Yoly Cerón and I am professional web and mobile developer and a data science padawan. I am passionate about software and data.</p>
             <p>You can reach me on twitter <a target="_blank" href="https://twitter.com/macaruchi">@macaruchi</a>.</p>
         </div>
-
 
     </div>
 
