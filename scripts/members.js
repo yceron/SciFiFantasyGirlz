@@ -17,7 +17,7 @@ function createLocationMap() {
             dataSource: {
                 transport: {
                     read: {
-                        url: "/data/members_location.json",
+                        url: "data/members_location.json",
                         dataType: "json"
                     }
                 }
