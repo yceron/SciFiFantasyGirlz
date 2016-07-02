@@ -15,12 +15,11 @@
     "startdate": "2015-05-01",
     "enddate": "2015-06-31",
     "group_read_count": 0,
-    "group_rating_avg": 4.25,
+    "group_rating_avg": 0,
     "read_date_label": "May-Jun 2015",
     "CategoryValue": 5,
     "CategoryColor": "#D8D0B9"
   },
-
   {
     "bookid": 14050,
     "isbn": "0965818675",
@@ -36,11 +35,9 @@
     "small_image_url": "https://d.gr-assets.com/books/1437728815s/14050.jpg",
     "startdate": "2015-11-01",
     "enddate": "2015-12-31",
-    "group_read_count": 4,
-    "group_rating_avg": 4.25,
-    "read_date_label": "Nov-Dec 2015",
-    "CategoryValue": 5,
-    "CategoryColor": "#D8D0B9"
+    "group_read_count": 26,
+    "group_rating_avg": 3.6923,
+    "read_date_label": "Nov-Dec 2015"
   },
   {
     "bookid": 18423,
@@ -57,11 +54,9 @@
     "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
     "startdate": "2015-09-01",
     "enddate": "2015-10-31",
-    "group_read_count": 8,
-    "group_rating_avg": 4.25,
-    "read_date_label": "Sep-Oct 2015",
-    "CategoryValue": 5,
-    "CategoryColor": "#D8D0B9"
+    "group_read_count": 26,
+    "group_rating_avg": 4.2692,
+    "read_date_label": "Sep-Oct 2015"
   },
   {
     "bookid": 18490,
@@ -78,11 +73,9 @@
     "small_image_url": "https://d.gr-assets.com/books/1381512375s/18490.jpg",
     "startdate": "2014-10-01",
     "enddate": "2014-10-31",
-    "group_read_count": 14,
-    "group_rating_avg": 3.3571,
-    "read_date_label": "Oct-Oct 2014",
-    "CategoryValue": 5,
-    "CategoryColor": "#D8D0B9"
+    "group_read_count": 47,
+    "group_rating_avg": 3.7021,
+    "read_date_label": "Oct-Oct 2014"
   },
   {
     "bookid": 24983,
@@ -99,11 +92,9 @@
     "small_image_url": "https://d.gr-assets.com/books/1403972500s/24983.jpg",
     "startdate": "2015-09-01",
     "enddate": "2015-10-31",
-    "group_read_count": 3,
-    "group_rating_avg": 3.6667,
-    "read_date_label": "Sep-Oct 2015",
-    "CategoryValue": 5,
-    "CategoryColor": "#D8D0B9"
+    "group_read_count": 15,
+    "group_rating_avg": 4.2,
+    "read_date_label": "Sep-Oct 2015"
   },
   {
     "bookid": 52397,
@@ -120,11 +111,9 @@
     "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
     "startdate": "2014-05-01",
     "enddate": "2014-07-01",
-    "group_read_count": 2,
-    "group_rating_avg": 4,
-    "read_date_label": "May-Jul 2014",
-    "CategoryValue": 5,
-    "CategoryColor": "#D8D0B9"
+    "group_read_count": 14,
+    "group_rating_avg": 4.1429,
+    "read_date_label": "May-Jul 2014"
   },
   {
     "bookid": 57043,
@@ -141,11 +130,9 @@
     "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
     "startdate": "2015-03-01",
     "enddate": "2015-04-30",
-    "group_read_count": 3,
-    "group_rating_avg": 4,
-    "read_date_label": "Mar-Apr 2015",
-    "CategoryValue": 5,
-    "CategoryColor": "#D8D0B9"
+    "group_read_count": 9,
+    "group_rating_avg": 4.3333,
+    "read_date_label": "Mar-Apr 2015"
   },
   {
     "bookid": 59924,
@@ -162,11 +149,9 @@
     "small_image_url": "https://d.gr-assets.com/books/1433084322s/59924.jpg",
     "startdate": "2014-05-01",
     "enddate": "2014-07-01",
-    "group_read_count": 4,
-    "group_rating_avg": 4,
-    "read_date_label": "May-Jul 2014",
-    "CategoryValue": 5,
-    "CategoryColor": "#D8D0B9"
+    "group_read_count": 17,
+    "group_rating_avg": 4.4118,
+    "read_date_label": "May-Jul 2014"
   },
   {
     "bookid": 60925,
@@ -183,11 +168,9 @@
     "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
     "startdate": "2016-03-03",
     "enddate": "2016-03-31",
-    "group_read_count": 4,
-    "group_rating_avg": 3.5,
-    "read_date_label": "Mar-Mar 2016",
-    "CategoryValue": 5,
-    "CategoryColor": "#D8D0B9"
+    "group_read_count": 8,
+    "group_rating_avg": 3.375,
+    "read_date_label": "Mar-Mar 2016"
   },
   {
     "bookid": 60931,
@@ -204,11 +187,9 @@
     "small_image_url": "https://d.gr-assets.com/books/1339423248s/60931.jpg",
     "startdate": "2015-11-01",
     "enddate": "2015-12-31",
-    "group_read_count": 5,
-    "group_rating_avg": 3.8,
-    "read_date_label": "Nov-Dec 2015",
-    "CategoryValue": 5,
-    "CategoryColor": "#D8D0B9"
+    "group_read_count": 21,
+    "group_rating_avg": 4.381,
+    "read_date_label": "Nov-Dec 2015"
   },
   {
     "bookid": 61975,
@@ -225,11 +206,9 @@
     "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
     "startdate": "2014-09-01",
     "enddate": "2014-10-31",
-    "group_read_count": 9,
-    "group_rating_avg": 3.3333,
-    "read_date_label": "Sep-Oct 2014",
-    "CategoryValue": 5,
-    "CategoryColor": "#D8D0B9"
+    "group_read_count": 34,
+    "group_rating_avg": 3.8529,
+    "read_date_label": "Sep-Oct 2014"
   },
   {
     "bookid": 69169,
@@ -246,11 +225,9 @@
     "small_image_url": "https://d.gr-assets.com/books/1287523762s/69169.jpg",
     "startdate": "2014-11-01",
     "enddate": "2014-12-31",
-    "group_read_count": 4,
-    "group_rating_avg": 3.25,
-    "read_date_label": "Nov-Dec 2014",
-    "CategoryValue": 5,
-    "CategoryColor": "#D8D0B9"
+    "group_read_count": 7,
+    "group_rating_avg": 3.5714,
+    "read_date_label": "Nov-Dec 2014"
   },
   {
     "bookid": 127645,
@@ -267,11 +244,9 @@
     "small_image_url": "https://d.gr-assets.com/books/1328000456s/127645.jpg",
     "startdate": "2014-11-01",
     "enddate": "2014-12-31",
-    "group_read_count": 6,
-    "group_rating_avg": 2.6667,
-    "read_date_label": "Nov-Dec 2014",
-    "CategoryValue": 5,
-    "CategoryColor": "#D8D0B9"
+    "group_read_count": 11,
+    "group_rating_avg": 3.3636,
+    "read_date_label": "Nov-Dec 2014"
   },
   {
     "bookid": 612226,
@@ -288,11 +263,9 @@
     "small_image_url": "https://d.gr-assets.com/books/1312061432s/612226.jpg",
     "startdate": "2014-07-01",
     "enddate": "2014-08-31",
-    "group_read_count": 2,
-    "group_rating_avg": 3,
-    "read_date_label": "Jul-Aug 2014",
-    "CategoryValue": 5,
-    "CategoryColor": "#D8D0B9"
+    "group_read_count": 6,
+    "group_rating_avg": 3.5,
+    "read_date_label": "Jul-Aug 2014"
   },
   {
     "bookid": 883195,
@@ -309,11 +282,9 @@
     "small_image_url": "https://d.gr-assets.com/books/1356452048s/883195.jpg",
     "startdate": "2015-03-01",
     "enddate": "2015-04-30",
-    "group_read_count": 1,
-    "group_rating_avg": 5,
-    "read_date_label": "Mar-Apr 2015",
-    "CategoryValue": 5,
-    "CategoryColor": "#D8D0B9"
+    "group_read_count": 2,
+    "group_rating_avg": 4.5,
+    "read_date_label": "Mar-Apr 2015"
   },
   {
     "bookid": 1828067,
@@ -330,11 +301,9 @@
     "small_image_url": "https://d.gr-assets.com/books/1298780718s/1828067.jpg",
     "startdate": "2015-03-01",
     "enddate": "2015-04-30",
-    "group_read_count": 6,
+    "group_read_count": 15,
     "group_rating_avg": 3.6667,
-    "read_date_label": "Mar-Apr 2015",
-    "CategoryValue": 5,
-    "CategoryColor": "#D8D0B9"
+    "read_date_label": "Mar-Apr 2015"
   },
   {
     "bookid": 2917367,
@@ -351,11 +320,9 @@
     "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
     "startdate": "2014-09-01",
     "enddate": "2014-10-31",
-    "group_read_count": 4,
-    "group_rating_avg": 4.5,
-    "read_date_label": "Sep-Oct 2014",
-    "CategoryValue": 5,
-    "CategoryColor": "#D8D0B9"
+    "group_read_count": 7,
+    "group_rating_avg": 4.4286,
+    "read_date_label": "Sep-Oct 2014"
   },
   {
     "bookid": 3491640,
@@ -372,11 +339,9 @@
     "small_image_url": "https://d.gr-assets.com/books/1328732006s/3491640.jpg",
     "startdate": "2014-07-01",
     "enddate": "2014-08-31",
-    "group_read_count": 1,
-    "group_rating_avg": 4,
-    "read_date_label": "Jul-Aug 2014",
-    "CategoryValue": 5,
-    "CategoryColor": "#D8D0B9"
+    "group_read_count": 4,
+    "group_rating_avg": 3.75,
+    "read_date_label": "Jul-Aug 2014"
   },
   {
     "bookid": 8667848,
@@ -393,13 +358,10 @@
     "small_image_url": "https://d.gr-assets.com/books/1322168805s/8667848.jpg",
     "startdate": "2016-02-01",
     "enddate": "2016-02-29",
-    "group_read_count": 3,
-    "group_rating_avg": 1.3333,
-    "read_date_label": "Feb-Feb 2016",
-    "CategoryValue": 5,
-    "CategoryColor": "#D8D0B9"
+    "group_read_count": 21,
+    "group_rating_avg": 2.5238,
+    "read_date_label": "Feb-Feb 2016"
   },
-  
   {
     "bookid": 10814635,
     "isbn": "0441020631",
@@ -415,11 +377,9 @@
     "small_image_url": "https://d.gr-assets.com/books/1327989095s/10814635.jpg",
     "startdate": "2015-01-01",
     "enddate": "2015-03-01",
-    "group_read_count": 3,
-    "group_rating_avg": 3.3333,
-    "read_date_label": "Jan-Mar 2015",
-    "CategoryValue": 5,
-    "CategoryColor": "#D8D0B9"
+    "group_read_count": 9,
+    "group_rating_avg": 3.1111,
+    "read_date_label": "Jan-Mar 2015"
   },
   {
     "bookid": 12974372,
@@ -436,11 +396,9 @@
     "small_image_url": "https://d.gr-assets.com/books/1359770409s/12974372.jpg",
     "startdate": "2016-04-01",
     "enddate": "2016-04-30",
-    "group_read_count": 3,
-    "group_rating_avg": 3.6667,
-    "read_date_label": "Apr-Apr 2016",
-    "CategoryValue": 5,
-    "CategoryColor": "#D8D0B9"
+    "group_read_count": 11,
+    "group_rating_avg": 3.4545,
+    "read_date_label": "Apr-Apr 2016"
   },
   {
     "bookid": 17333324,
@@ -457,11 +415,9 @@
     "small_image_url": "https://d.gr-assets.com/books/1397215917s/17333324.jpg",
     "startdate": "2015-01-01",
     "enddate": "2015-03-01",
-    "group_read_count": 5,
-    "group_rating_avg": 2.8,
-    "read_date_label": "Jan-Mar 2015",
-    "CategoryValue": 5,
-    "CategoryColor": "#D8D0B9"
+    "group_read_count": 26,
+    "group_rating_avg": 3.6538,
+    "read_date_label": "Jan-Mar 2015"
   },
   {
     "bookid": 20170404,
@@ -478,11 +434,9 @@
     "small_image_url": "https://d.gr-assets.com/books/1451446835s/20170404.jpg",
     "startdate": "2015-07-01",
     "enddate": "2015-08-31",
-    "group_read_count": 7,
-    "group_rating_avg": 3.5714,
-    "read_date_label": "Jul-Aug 2015",
-    "CategoryValue": 5,
-    "CategoryColor": "#D8D0B9"
+    "group_read_count": 24,
+    "group_rating_avg": 3.5833,
+    "read_date_label": "Jul-Aug 2015"
   },
   {
     "bookid": 22544764,
@@ -499,10 +453,8 @@
     "small_image_url": "https://d.gr-assets.com/books/1420795060s/22544764.jpg",
     "startdate": "2015-07-01",
     "enddate": "2015-08-31",
-    "group_read_count": 4,
-    "group_rating_avg": 4.25,
-    "read_date_label": "Jul-Aug 2015",
-    "CategoryValue": 5,
-    "CategoryColor": "#D8D0B9"
+    "group_read_count": 18,
+    "group_rating_avg": 4.2778,
+    "read_date_label": "Jul-Aug 2015"
   }
 ]

@@ -255,9 +255,10 @@ createMembershipAgeChart();
 createLocationMap();
 
 $(window).on("resize", function () {
-    $("#map").data("kendoChart").refresh();
+    
     $("#ageChart").data("kendoChart").refresh();
     $("#registrationChart").data("kendoChart").refresh();
     $("#membershipChart").data("kendoChart").refresh();
-    
+    if ($("#map").data("kendoChart"))
+        $("#map").data("kendoChart").redraw();
 });
